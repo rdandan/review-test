@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/pathone": {
+      "name": "/pathone",
+      "lambdaFunction": "testpathoneD",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/pathtwo": {
+      "name": "/pathtwo",
+      "lambdaFunction": "testpathtwoD",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

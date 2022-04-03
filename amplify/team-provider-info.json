@@ -10,6 +10,18 @@
       "StackName": "amplify-apptest-dev-94440",
       "StackId": "arn:aws:cloudformation:us-east-1:805674686192:stack/amplify-apptest-dev-94440/e0017b00-b2de-11ec-bcb0-0ec92f60fb8b",
       "AmplifyAppId": "d3sqg6g0gbrbqn"
+    },
+    "categories": {
+      "function": {
+        "testpathtwoD": {
+          "deploymentBucketName": "amplify-apptest-dev-94440-deployment",
+          "s3Key": "amplify-builds/testpathtwoD-727742614a774d4b3048-build.zip"
+        },
+        "testpathoneD": {
+          "deploymentBucketName": "amplify-apptest-dev-94440-deployment",
+          "s3Key": "amplify-builds/testpathoneD-726c2f4b723168623773-build.zip"
+        }
+      }
     }
   }
 }
