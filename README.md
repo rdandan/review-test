@@ -54,6 +54,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 analisis_handle.py
 
 # python dependencies
-requirements.txt(https://github.com/XuezhengLiu/ReviewMirror/blob/master/Python/requirements.txt)
+[requirements.txt](https://github.com/XuezhengLiu/ReviewMirror/blob/master/Python/requirements.txt)
 
 You can find the requirements.txt in the python folder that helps you install the packages
